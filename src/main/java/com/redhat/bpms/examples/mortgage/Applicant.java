@@ -24,7 +24,7 @@ static final long serialVersionUID = 1L;
     @org.kie.api.definition.type.Position(value = 1)
     private java.lang.Integer ssn;
     
-    // test //
+    // test ////
 
     public Applicant() {
     }
