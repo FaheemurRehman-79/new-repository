@@ -23,6 +23,8 @@ static final long serialVersionUID = 1L;
     @org.kie.api.definition.type.Label(value = "Social Security Number")
     @org.kie.api.definition.type.Position(value = 1)
     private java.lang.Integer ssn;
+    
+    // test
 
     public Applicant() {
     }
