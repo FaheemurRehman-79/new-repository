@@ -1,0 +1,9 @@
+package com.redhat.bpms.examples.mortgage;
+
+import java.lang.Number;
+
+rule "Git Push Rule"
+	dialect "mvel"
+	when
+	then
+end
